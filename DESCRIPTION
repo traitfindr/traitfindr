@@ -1,0 +1,11 @@
+Package: traitfindr
+Type: Package
+Title: 
+Version: 1.0
+Date: 2018-01-08
+Author: ALL AUTHORS OF THE PACKAGE 
+Maintainer: NAME <EMAIL ADDRESS>
+Description: A DESCRIPTION FOR OUR R PACKAGE.
+License: GPL-2
+Imports: LIST OF PACKAGES TO IMPORT
+BugReports: https://github.com/traitfindr/traitfindr/issues
